@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haleema-malik445&label=Profile%20views&color=0e75b6&style=flat" alt="haleema-malik445" /> </p>
 
-- 🌱 I’m currently learning **GoNG**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **Html ,CSS ,Javascript , Reactjs , Nextjs, C++ , C , C# **
 

@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://abdulrafayzia.netlify.app/](https://abdulrafayzia.netlify.app/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/abdul-rafay-zia-697517247/](https://www.linkedin.com/in/abdul-rafay-zia-697517247/)
-
 - 💬 Ask me about **Golang , React , Docker**
 
 - 📫 How to reach me **rafayzia3690@gmail.com**
